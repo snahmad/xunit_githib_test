@@ -12,6 +12,8 @@ namespace xunit_githib_test
             Assert.Equal(result, 5);
             //mlll
             //kdkdk
+            result = 6;
+            Assert.Equal(result, 6);
         }
 
     }
